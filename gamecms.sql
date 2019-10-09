@@ -314,19 +314,6 @@ INSERT INTO `advert` VALUES (12, 3, 4, NULL, '', 0, NULL, 'advert/15373466004716
 INSERT INTO `advert` VALUES (13, 3, 2, NULL, '', 0, NULL, 'advert/1537346510880921.png', NULL, NULL, NULL, NULL, 3, 1, '2018-09-19 16:41:50', '休息游戏1');
 INSERT INTO `advert` VALUES (14, 3, 4, NULL, '', 0, NULL, 'advert/1537346600471699.png', NULL, NULL, NULL, NULL, 4, 1, '2018-09-19 16:43:20', '休闲2');
 INSERT INTO `advert` VALUES (15, 3, 2, NULL, '', 0, NULL, 'advert/1537346510880921.png', NULL, NULL, NULL, NULL, 5, 1, '2018-09-19 16:41:50', '休息游戏1');
-INSERT INTO `advert` VALUES (16, 4, 4, NULL, '', 0, NULL, 'advert/1537346600471699.png', NULL, NULL, NULL, NULL, 6, 1, '2018-10-09 16:44:15', '休闲2');
-INSERT INTO `advert` VALUES (17, 7, 1, NULL, '', 0, NULL, 'advert/1537840453046636.png', NULL, NULL, NULL, NULL, 1, 1, '2018-09-25 14:16:34', '游戏分类-休闲益智');
-INSERT INTO `advert` VALUES (18, 7, 2, NULL, '', 0, NULL, 'advert/1537845379135453.png', NULL, NULL, NULL, NULL, 2, 1, '2018-10-08 10:16:40', '游戏分类-休闲益智-最新游戏');
-INSERT INTO `advert` VALUES (19, 11, -1, NULL, '', 0, NULL, 'advert/1537860866493191.png', NULL, NULL, NULL, NULL, 1, 1, '2018-10-09 10:07:21', '最新活动');
-INSERT INTO `advert` VALUES (20, 11, -1, NULL, '', 0, NULL, 'advert/1537860919687102.png', NULL, NULL, NULL, NULL, 1, 1, '2018-09-25 15:35:19', '最新专题');
-INSERT INTO `advert` VALUES (21, 11, -1, NULL, '', 0, NULL, 'advert/1537860866493191.png', NULL, NULL, NULL, NULL, 1, 1, '2018-09-25 15:34:26', '最新活动');
-INSERT INTO `advert` VALUES (22, 11, -1, NULL, '', 0, NULL, 'advert/1537860919687102.png', NULL, NULL, NULL, NULL, 1, 1, '2018-10-09 10:07:29', '最新专题');
-INSERT INTO `advert` VALUES (23, 11, -1, NULL, 'http://192.168.0.72:8080/classicSummerActivity/auth.jsp?user={0}&userID={1}&zyUserToken={2}&stbType={3}&enterURL={4}', 1, NULL, 'advert/1537860866493191.png', NULL, NULL, NULL, NULL, 1, 1, '2018-10-08 10:19:31', '5月活动');
-INSERT INTO `advert` VALUES (24, 12, -1, NULL, '', 0, NULL, 'advert/1537860919687102.png', NULL, NULL, NULL, NULL, 1, 1, '2018-10-09 10:08:40', '最新专题');
-INSERT INTO `advert` VALUES (25, 11, -1, NULL, '', 0, NULL, 'advert/1537860866493191.png', NULL, NULL, NULL, NULL, 1, 1, '2018-09-25 15:34:26', '最新活动');
-INSERT INTO `advert` VALUES (26, 12, -1, NULL, '', 0, NULL, 'advert/1537860919687102.png', NULL, NULL, NULL, NULL, 1, 1, '2018-10-09 10:08:45', '最新专题');
-INSERT INTO `advert` VALUES (27, 2, 1, NULL, '', 0, NULL, 'advert/1537252839038347.png', NULL, 'advert/1533721784307430.png', NULL, 'advert/1533721784306340.png', 3, 1, '2018-09-18 14:40:39', 'jdqs');
-INSERT INTO `advert` VALUES (28, 2, 1, NULL, '', 0, NULL, 'advert/1537252839038347.png', NULL, 'advert/1533721784307430.png', NULL, 'advert/1533721784306340.png', 3, 1, '2018-09-18 14:40:39', 'jdqs');
 
 -- ----------------------------
 -- Table structure for advert_type
